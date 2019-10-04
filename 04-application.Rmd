@@ -1,7 +1,4 @@
-# Applications
+# learn R
 
-Some _significant_ applications are demonstrated in this chapter.
-
-## Example one
-
-## Example two
+We are ready to start to learn R!
+Datacamp is a good place to start with! <https://www.datacamp.com>
